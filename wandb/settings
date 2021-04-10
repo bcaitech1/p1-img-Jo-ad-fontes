@@ -1,0 +1,5 @@
+[default]
+entity = sa873s
+project = stage1
+base_url = https://api.wandb.ai
+
